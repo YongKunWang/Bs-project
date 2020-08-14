@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baoSteelMointor.iml" filepath="$PROJECT_DIR$/baoSteelMointor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-common/bs-common.iml" filepath="$PROJECT_DIR$/bs-common/bs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-gateway/bs-gateway.iml" filepath="$PROJECT_DIR$/bs-gateway/bs-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-service/bs-item-interface/bs-item-interface.iml" filepath="$PROJECT_DIR$/bs-service/bs-item-interface/bs-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-service/bs-item-service/bs-item-service.iml" filepath="$PROJECT_DIR$/bs-service/bs-item-service/bs-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-registry/bs-registry.iml" filepath="$PROJECT_DIR$/bs-registry/bs-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-service/bs-service.iml" filepath="$PROJECT_DIR$/bs-service/bs-service.iml" />
+    </modules>
+  </component>
+</project>
